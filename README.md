@@ -15,11 +15,3 @@
 
 ![image](https://github.com/Dazavv/web_lab4_frontend/assets/112805687/9c9660ee-596b-4e34-bc0c-f26881d42580)
 
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
